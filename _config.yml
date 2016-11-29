@@ -2,6 +2,9 @@
 title: Hector
 timezone: Europe/Stockholm
 collections:
+  posts:
+    title: Posts
+    output: true
   products:
     title: Products
     output: true
